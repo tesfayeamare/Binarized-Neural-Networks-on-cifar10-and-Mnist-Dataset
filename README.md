@@ -1,5 +1,8 @@
 # Binarized-Neural-Networks-on-cifar10-and-Mnist-Dataset
-BNN is a type of neural network that activations(or called features) and weights are 1-bit values in all the hidden layers (except the input and output layers). In a few words, BNN is an extremely compacted case of CNN. Because BNN and CNN have the same structures except for the different precision activations and weights. In this project, I demonstrate the usage of Binary neural networks to solve common computer vision task(classfication) using the Tensorflow framework.
+BNN is a type of neural network that activations(or called features) and weights are 1-bit values in all the hidden layers (except the input and output layers). In a few words, BNN is an extremely compacted case of CNN. Because BNN and CNN have the same structures except for the different precision activations and weights. In this simple project, I demonstrate the usage of Binary neural networks to solve common computer vision task(classfication) using the Tensorflow framework.
+<p align="center">
+    <img width="600" src="https://www.semanticscholar.org/paper/Binary-Neural-Networks%3A-A-Survey-Qin-Gong/bc3706d600729f1b9007c91052258c7c22864f69/figure/0">
+</p>
 To gain a deeper understanding of Binary Neural Networks, refer to this research paper for further information.[A comprehensive review of Binary Neural Network](https://arxiv.org/pdf/2110.06804.pdf)
 
 ## Pytorch version
